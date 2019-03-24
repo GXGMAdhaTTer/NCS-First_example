@@ -34,3 +34,8 @@ labels = ('background',
 `ret, display_image = camera.read()`
 
 在进行两步替换，顺便注释掉冗余代码后，video_object顺利改成了live_object。
+
+# 编译环境
+python3.5.3
+已配置ncsdk和opencv。
+自行 git clone https://github.com/movidius/ncsdk.git
