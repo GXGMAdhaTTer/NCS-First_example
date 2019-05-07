@@ -39,3 +39,6 @@ labels = ('background',
 python3.5.3
 已配置ncsdk和opencv。
 自行 git clone https://github.com/movidius/ncsdk.git
+
+#训练模型
+采用的是caffe的MobileNet-SSD模型，自行训练参考https://github.com/chuanqi305/MobileNet-SSD
